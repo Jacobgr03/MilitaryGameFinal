@@ -1,0 +1,5 @@
+C:\Users\10314527\OneDrive - BD\Documents\College\Software Development\MiliaryGame Final\MilitaryGame.exe
+C:\Users\10314527\OneDrive - BD\Documents\College\Software Development\MiliaryGame Final\MilitaryGame.dll
+C:\Users\10314527\OneDrive - BD\Documents\College\Software Development\MiliaryGame Final\MilitaryGame.deps.json
+C:\Users\10314527\OneDrive - BD\Documents\College\Software Development\MiliaryGame Final\MilitaryGame.runtimeconfig.json
+C:\Users\10314527\OneDrive - BD\Documents\College\Software Development\MiliaryGame Final\MilitaryGame.pdb

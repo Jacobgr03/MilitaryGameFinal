@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MilitaryGame/1.0.0": {
+        "runtime": {
+          "MilitaryGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilitaryGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
